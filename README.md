@@ -3,8 +3,7 @@ is a fundamental problem in computer vision, and it has many applications in var
 fields. Support Vector Machines (SVM) is one of the popular algorithms used for
 image classification. SVM is a machine learning algorithm that can be used for both
 classification and regression tasks. It has shown promising results in many
-applications, including image classification. In this report, we will discuss how SVM
-can be used for image classification in Python.
+applications, including image classification.
 Wavelet transform can be used in image classification tasks by extracting relevant
 features from an image at multiple scales. The wavelet transform decomposes an
 image into multiple levels of frequency sub-bands, which contain information about
